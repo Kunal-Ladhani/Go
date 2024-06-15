@@ -1,0 +1,2 @@
+# Go
+Go workspace
